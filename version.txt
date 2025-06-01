@@ -1,4 +1,4 @@
 1.01
 
-fixed entering mods
-added changelog
+- fixed entering mods
+- added changelog
